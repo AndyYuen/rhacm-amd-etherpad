@@ -10,3 +10,4 @@ spec:
   clusterSelector:
     matchLabels:
       environment: dev
+      cluster: openshift
