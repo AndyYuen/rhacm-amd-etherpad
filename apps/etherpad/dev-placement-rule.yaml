@@ -10,4 +10,5 @@ spec:
   clusterSelector:
     matchLabels:
       environment: dev
-      cluster: openshift
+      cluster: hybrid
+      ingress: traefik
